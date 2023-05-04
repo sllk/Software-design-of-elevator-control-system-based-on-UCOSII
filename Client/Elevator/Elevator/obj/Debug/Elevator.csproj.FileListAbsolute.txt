@@ -1,0 +1,10 @@
+D:\data\ucos\Client\Elevator\Elevator\bin\Debug\Elevator.exe.config
+D:\data\ucos\Client\Elevator\Elevator\bin\Debug\Elevator.exe
+D:\data\ucos\Client\Elevator\Elevator\bin\Debug\Elevator.pdb
+D:\data\ucos\Client\Elevator\Elevator\obj\Debug\Elevator.csprojAssemblyReference.cache
+D:\data\ucos\Client\Elevator\Elevator\obj\Debug\Elevator.Form1.resources
+D:\data\ucos\Client\Elevator\Elevator\obj\Debug\Elevator.Properties.Resources.resources
+D:\data\ucos\Client\Elevator\Elevator\obj\Debug\Elevator.csproj.GenerateResource.cache
+D:\data\ucos\Client\Elevator\Elevator\obj\Debug\Elevator.csproj.CoreCompileInputs.cache
+D:\data\ucos\Client\Elevator\Elevator\obj\Debug\Elevator.exe
+D:\data\ucos\Client\Elevator\Elevator\obj\Debug\Elevator.pdb

@@ -1,0 +1,55 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Tool Versions:</h2>
+IDE-Version: ¦ÌVision V5.37.0.0
+Copyright (C) 2022 ARM Ltd and ARM Germany GmbH. All rights reserved.
+License Information: wang shaoyang, sdust, LIC=KIVNB-2G1T2-17IRR-KC4D6-71GV8-IGPFE
+ 
+Tool Versions:
+Toolchain:       MDK-ARM Professional  Version: 5.37.0.0
+Toolchain Path:  C:\Keil_v5\ARM\ARMCC\Bin
+C Compiler:      Armcc.exe V5.04 update 1 (build 49)
+Assembler:       Armasm.exe V5.04 update 1 (build 49)
+Linker/Locator:  ArmLink.exe V5.04 update 1 (build 49)
+Library Manager: ArmAr.exe V5.04 update 1 (build 49)
+Hex Converter:   FromElf.exe V5.04 update 1 (build 49)
+CPU DLL:         SARMCM3.DLL V5.37.0.0
+Dialog DLL:      DARMSTM.DLL V1.69.1.0
+Target DLL:      STLink\ST-LINKIII-KEIL_SWO.dll V3.0.9.0
+Dialog DLL:      TARMSTM.DLL V1.67.1.0
+ 
+<h2>Project:</h2>
+D:\data\ucos\elevator\ElevatorV1.1\USER\Template.uvprojx
+Project File Date:  04/24/2023
+
+<h2>Output:</h2>
+*** Using Compiler 'V5.04 update 1 (build 49)', folder: 'C:\Keil_v5\ARM\ARMCC\Bin'
+Build target 'Target 1'
+compiling main.c...
+main.c(237): warning:  #177-D: variable "cpu_sr" was declared but never referenced
+  	OS_CPU_SR cpu_sr=0;
+main.c(278): warning:  #111-D: statement is unreachable
+  OSTimeDly(20);
+main.c: 2 warnings, 0 errors
+linking...
+Program Size: Code=19866 RO-data=15214 RW-data=152 ZI-data=7032  
+FromELF: creating hex file...
+"..\OBJ\MALLOC.axf" - 0 Error(s), 2 Warning(s).
+
+<h2>Software Packages used:</h2>
+
+Package Vendor: Keil
+                http://www.keil.com/pack/Keil.STM32F1xx_DFP.2.4.0.pack
+                Keil.STM32F1xx_DFP.2.4.0
+                STMicroelectronics STM32F1 Series Device Support, Drivers and Examples
+
+<h2>Collection of Component include folders:</h2>
+  C:/Users/shaoyang/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.0/Device/Include
+
+<h2>Collection of Component Files used:</h2>
+Build Time Elapsed:  00:00:00
+</pre>
+</body>
+</html>
