@@ -1,6 +1,6 @@
 Dependencies for Project 'Template', Target 'Target 1': (DO NOT MODIFY !)
 CompilerVersion: 5040049::V5.04 update 1 (build 49)::.\ARMCC
-F (.\main.c)(0x64521E54)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\USER -I ..\CORE -I ..\SYSTEM\delay -I ..\SYSTEM\sys -I ..\SYSTEM\usart -I ..\STM32F10x_FWLib\inc -I ..\FWLIB\STM32F10x_FWLib\inc -I ..\HARDWARE\LED -I ..\UCOSII\CORE -I ..\UCOSII\CONFIG -I ..\UCOSII\PORT -I ..\HARDWARE\LCD -I ..\HARDWARE\KEY-IC:\Users\shaoyang\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.0\Device\Include-D__UVISION_VERSION="537" -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o ..\obj\main.o --omf_browse ..\obj\main.crf --depend ..\obj\main.d)
+F (.\main.c)(0x6472D8C5)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\USER -I ..\CORE -I ..\SYSTEM\delay -I ..\SYSTEM\sys -I ..\SYSTEM\usart -I ..\STM32F10x_FWLib\inc -I ..\FWLIB\STM32F10x_FWLib\inc -I ..\HARDWARE\LED -I ..\UCOSII\CORE -I ..\UCOSII\CONFIG -I ..\UCOSII\PORT -I ..\HARDWARE\LCD -I ..\HARDWARE\KEY-IC:\Users\shaoyang\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.0\Device\Include-D__UVISION_VERSION="537" -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o ..\obj\main.o --omf_browse ..\obj\main.crf --depend ..\obj\main.d)
 I (..\HARDWARE\LED\led.h)(0x50513ABC)
 I (..\SYSTEM\sys\sys.h)(0x555AE364)
 I (..\USER\stm32f10x.h)(0x4D783CB4)
